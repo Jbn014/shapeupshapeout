@@ -22,3 +22,15 @@
     left: 650px;
     top: 300px;
 }
+#circle-shape {
+    background-color: purple;  
+}
+#rectangle-shape {
+    background-color: green;   
+}
+#square-shape {
+    background-color: red;
+}
+#triangle-shape {
+    background-color: yellow;
+}
