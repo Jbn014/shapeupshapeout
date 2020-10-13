@@ -1,0 +1,24 @@
+#shape-container {
+    height: 600px;
+    width: 600px;
+    background-color: lightgray;
+    position: relative
+}
+#Rectangle {
+    padding: 1rem;
+
+}
+#Square {
+    padding: 1rem;
+}
+#Circle {
+    padding: 1rem;
+}
+#Right-Triangle {
+    padding: 1rem;
+}
+#side-panel {
+    position: absolute;
+    left: 650px;
+    top: 300px;
+}
